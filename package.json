@@ -1,5 +1,5 @@
 {
-  "name": "@moncici/binance",
+  "name": "@qinjiepp/cryptotea",
   "version": "1.0.3",
   "description": "",
   "type": "module",
@@ -9,24 +9,24 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/moncici007/binance"
+    "url": "https://github.com/qinjiepp/cryptotea"
   },
-  "website": "https://github.com/moncici007/binance.git",
+  "website": "https://github.com/qinjiepp/cryptotea.git",
   "keywords": [
     "binance",
     "client",
     "arbitrim"
   ],
-  "author": "moncici007",
+  "author": "qinjiepp",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/moncici007/binance/issues"
+    "url": "https://github.com/qinjiepp/cryptotea/issues"
   },
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org"
   },
-  "homepage": "https://github.com/moncici007/binance#readme",
+  "homepage": "https://github.com/qinjiepp/cryptotea#readme",
   "dependencies": {
     "@moncici/date-time-processor": "^1.0.3",
     "@moncici/log": "^1.0.2",
